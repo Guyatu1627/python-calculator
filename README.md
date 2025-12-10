@@ -1,4 +1,3 @@
-﻿# python-calculator
 # Python Calculator
 
 ## Description
@@ -19,3 +18,4 @@ To get started with the Python Calculator, follow these steps:
 1. Clone the repository:
    ```bash
    git clone https://github.com/Guyatu1627/python-calculator.git
+
